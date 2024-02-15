@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\wpf\\exam\\exam\\lib\\socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|solutionrelative:exam\\lib\\socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\wpf\\exam\\exam\\lib\\accions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|solutionrelative:exam\\lib\\accions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\wpf\\exam\\exam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|solutionrelative:exam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\wpf\\exam\\exam\\provacontroller.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|solutionrelative:exam\\provacontroller.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\wpf\\exam\\exam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|solutionrelative:exam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\wpf\\exam\\exam\\provacontroller.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|solutionrelative:exam\\provacontroller.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\wpf\\exam\\exam\\controllers\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|solutionrelative:exam\\controllers\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\wpf\\exam\\exam\\controllers\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C35E646-9E6B-4E42-88B9-868E111FD395}|exam\\exam.csproj|solutionrelative:exam\\controllers\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Accions.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\lib\\Accions.cs",
+              "RelativeDocumentMoniker": "exam\\lib\\Accions.cs",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\lib\\Accions.cs",
+              "RelativeToolTip": "exam\\lib\\Accions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T08:25:04.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Socket.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\lib\\Socket.cs",
+              "RelativeDocumentMoniker": "exam\\lib\\Socket.cs",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\lib\\Socket.cs",
+              "RelativeToolTip": "exam\\lib\\Socket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T08:24:25.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "provaController.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\provaController.xaml.cs",
+              "RelativeDocumentMoniker": "exam\\provaController.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\provaController.xaml.cs",
+              "RelativeToolTip": "exam\\provaController.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T08:12:38.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "provaController.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\provaController.xaml",
+              "RelativeDocumentMoniker": "exam\\provaController.xaml",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\provaController.xaml",
+              "RelativeToolTip": "exam\\provaController.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-15T08:11:40.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\Controllers\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "exam\\Controllers\\UserControl1.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\Controllers\\UserControl1.xaml.cs",
+              "RelativeToolTip": "exam\\Controllers\\UserControl1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T08:07:12.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\Controllers\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "exam\\Controllers\\UserControl1.xaml",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\Controllers\\UserControl1.xaml",
+              "RelativeToolTip": "exam\\Controllers\\UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-15T08:07:10.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "exam\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\MainWindow.xaml",
+              "RelativeToolTip": "exam\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-15T07:12:21.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "exam\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\wpf\\exam\\exam\\MainWindow.xaml.cs",
+              "RelativeToolTip": "exam\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T07:12:15.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
