@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\socket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED70C26B-5B44-4600-885E-CE9CD33CDE43}|Socket\\Socket.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\socket\\socket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED70C26B-5B44-4600-885E-CE9CD33CDE43}|Socket\\Socket.csproj|solutionrelative:socket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED70C26B-5B44-4600-885E-CE9CD33CDE43}|Socket\\Socket.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\socket\\socket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED70C26B-5B44-4600-885E-CE9CD33CDE43}|Socket\\Socket.csproj|solutionrelative:socket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED70C26B-5B44-4600-885E-CE9CD33CDE43}|Socket\\Socket.csproj|c:\\users\\alex caceres\\boscdelacoma\\examdef\\socket\\socket\\accions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED70C26B-5B44-4600-885E-CE9CD33CDE43}|Socket\\Socket.csproj|solutionrelative:socket\\accions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Accions.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\socket\\Socket\\Accions.cs",
+              "RelativeDocumentMoniker": "Socket\\Accions.cs",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\socket\\Socket\\Accions.cs",
+              "RelativeToolTip": "Socket\\Accions.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowGkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T08:40:59.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\socket\\Socket\\Server.cs",
+              "RelativeDocumentMoniker": "Socket\\Server.cs",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\socket\\Socket\\Server.cs",
+              "RelativeToolTip": "Socket\\Server.cs",
+              "ViewState": "AQIAAAEAAACAy8zMzEwowBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T08:40:59.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\socket\\Socket\\Program.cs",
+              "RelativeDocumentMoniker": "Socket\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex Caceres\\boscDeLaComa\\examDef\\socket\\Socket\\Program.cs",
+              "RelativeToolTip": "Socket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T08:40:59.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
